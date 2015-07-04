@@ -1,0 +1,27 @@
+@media screen and (min-width: 480px) {
+    
+    /**********************
+         TWO COLUMN LAYOUT
+     ***********************/
+   #primary {
+       width: 50%;
+       float: left;
+   }
+    #secondary {
+        width: 48%;
+        float: right;
+    }
+    
+    /**********************
+         PORTFOLIO PAGE
+     ***********************/
+    #gallery li {
+        width: 28.3333%
+    }
+}
+    
+
+@media screen and (min-width: 660px) {
+   
+    
+}
