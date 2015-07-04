@@ -166,6 +166,12 @@ page CONTACT
 
         .contact-info li .phone a {
             background-image: url('../img/phone.png');
+        }
+.contact-info li .mail a {
+            background-image: url('../img/mail.png');
+        }
+.contact-info li .Twitter a {
+            background-image: url('../img/twitter.png');
         
         }
 /**********************
