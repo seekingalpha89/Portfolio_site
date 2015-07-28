@@ -1,4 +1,5 @@
 var logo = document.getElementById("logo");
-consol.log("This is an element of type: ", logo.nodeType);
-console.log("the Inner HTML is " ,logo.innerHTML );
-console.log("Child nodes: ", logo.childNodes.length);
+console.log(logo.innerHTML);
+
+var wrapper = document.getElementById("wrapper");
+console.log(wrapper.innerHTML);
