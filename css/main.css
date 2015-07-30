@@ -147,11 +147,15 @@ Page About
  
         .profile-photo {
      display: block;
-     max-width: 100px;
+     max-width: 250px;
      margin: 0 auto 30px;
      border-radius: 20%;
  }
-    
+  
+a {
+text-align: center
+
+}
     /**********************
          PAGE CONTACT
 ***********************/
